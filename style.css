@@ -25,3 +25,13 @@ body {
   background-color: #F8F8F8;
   font-family:"ƒqƒ‰ƒMƒmŠpƒS Pro W3", "Hiragino Kaku Gothic Pro", "ƒƒCƒŠƒI", Meiryo, Osaka, "‚l‚r ‚oƒSƒVƒbƒN", "MS PGothic", sans-serif;
 }
+
+
+tr{
+padding:20px;
+}
+
+
+table{
+width:700px;
+}
