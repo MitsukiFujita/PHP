@@ -27,11 +27,16 @@ body {
 }
 
 
-tr{
-padding:20px;
+form{
+width:700px;
+margin:0px auto;
 }
-
 
 table{
 width:700px;
+border:none;
+}
+
+th{
+padding:20px;
 }
